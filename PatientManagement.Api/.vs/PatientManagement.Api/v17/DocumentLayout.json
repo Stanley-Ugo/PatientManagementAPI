@@ -1,7 +1,64 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF520B0-6788-4B39-9318-879EE3F15808}|PatientManagement.Api\\PatientManagement.Api.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF520B0-6788-4B39-9318-879EE3F15808}|PatientManagement.Api\\PatientManagement.Api.csproj|solutionrelative:patientmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF520B0-6788-4B39-9318-879EE3F15808}|PatientManagement.Api\\PatientManagement.Api.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF520B0-6788-4B39-9318-879EE3F15808}|PatientManagement.Api\\PatientManagement.Api.csproj|solutionrelative:patientmanagement.api\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D724150-2270-4D89-A569-5B9D34EAA5C1}|PatientManagement.Application\\PatientManagement.Application.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.application\\queries\\getallpatientsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D724150-2270-4D89-A569-5B9D34EAA5C1}|PatientManagement.Application\\PatientManagement.Application.csproj|solutionrelative:patientmanagement.application\\queries\\getallpatientsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4012CA8-ECE3-44DC-A68F-A868C5EDB202}|PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.infrastructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4012CA8-ECE3-44DC-A68F-A868C5EDB202}|PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj|solutionrelative:patientmanagement.infrastructure\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D724150-2270-4D89-A569-5B9D34EAA5C1}|PatientManagement.Application\\PatientManagement.Application.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.application\\commands\\softdeletepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D724150-2270-4D89-A569-5B9D34EAA5C1}|PatientManagement.Application\\PatientManagement.Application.csproj|solutionrelative:patientmanagement.application\\commands\\softdeletepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D724150-2270-4D89-A569-5B9D34EAA5C1}|PatientManagement.Application\\PatientManagement.Application.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.application\\commands\\updatepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D724150-2270-4D89-A569-5B9D34EAA5C1}|PatientManagement.Application\\PatientManagement.Application.csproj|solutionrelative:patientmanagement.application\\commands\\updatepatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D724150-2270-4D89-A569-5B9D34EAA5C1}|PatientManagement.Application\\PatientManagement.Application.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.application\\queries\\getpatientbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D724150-2270-4D89-A569-5B9D34EAA5C1}|PatientManagement.Application\\PatientManagement.Application.csproj|solutionrelative:patientmanagement.application\\queries\\getpatientbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D724150-2270-4D89-A569-5B9D34EAA5C1}|PatientManagement.Application\\PatientManagement.Application.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.application\\commands\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D724150-2270-4D89-A569-5B9D34EAA5C1}|PatientManagement.Application\\PatientManagement.Application.csproj|solutionrelative:patientmanagement.application\\commands\\createpatientcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4012CA8-ECE3-44DC-A68F-A868C5EDB202}|PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.infrastructure\\repositories\\patientrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4012CA8-ECE3-44DC-A68F-A868C5EDB202}|PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj|solutionrelative:patientmanagement.infrastructure\\repositories\\patientrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D63256-A00A-4CAE-83A2-2BE25DB3B3E1}|PatientManagement.Core\\PatientManagement.Core.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.core\\entities\\patientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D63256-A00A-4CAE-83A2-2BE25DB3B3E1}|PatientManagement.Core\\PatientManagement.Core.csproj|solutionrelative:patientmanagement.core\\entities\\patientrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4012CA8-ECE3-44DC-A68F-A868C5EDB202}|PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.infrastructure\\databasecontext\\patientcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4012CA8-ECE3-44DC-A68F-A868C5EDB202}|PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj|solutionrelative:patientmanagement.infrastructure\\databasecontext\\patientcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D63256-A00A-4CAE-83A2-2BE25DB3B3E1}|PatientManagement.Core\\PatientManagement.Core.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.core\\repositories\\ipatientrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D63256-A00A-4CAE-83A2-2BE25DB3B3E1}|PatientManagement.Core\\PatientManagement.Core.csproj|solutionrelative:patientmanagement.core\\repositories\\ipatientrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D63256-A00A-4CAE-83A2-2BE25DB3B3E1}|PatientManagement.Core\\PatientManagement.Core.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.core\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D63256-A00A-4CAE-83A2-2BE25DB3B3E1}|PatientManagement.Core\\PatientManagement.Core.csproj|solutionrelative:patientmanagement.core\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0D63256-A00A-4CAE-83A2-2BE25DB3B3E1}|PatientManagement.Core\\PatientManagement.Core.csproj|c:\\projects\\patientmanagementapi\\patientmanagement.api\\patientmanagement.core\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0D63256-A00A-4CAE-83A2-2BE25DB3B3E1}|PatientManagement.Core\\PatientManagement.Core.csproj|solutionrelative:patientmanagement.core\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 216,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +83,188 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllPatientsQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Application\\Queries\\GetAllPatientsQuery.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Application\\Queries\\GetAllPatientsQuery.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Application\\Queries\\GetAllPatientsQuery.cs",
+              "RelativeToolTip": "PatientManagement.Application\\Queries\\GetAllPatientsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T22:00:42.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SoftDeletePatientCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Application\\Commands\\SoftDeletePatientCommand.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Application\\Commands\\SoftDeletePatientCommand.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Application\\Commands\\SoftDeletePatientCommand.cs",
+              "RelativeToolTip": "PatientManagement.Application\\Commands\\SoftDeletePatientCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:59:30.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdatePatientCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Application\\Commands\\UpdatePatientCommand.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Application\\Commands\\UpdatePatientCommand.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Application\\Commands\\UpdatePatientCommand.cs",
+              "RelativeToolTip": "PatientManagement.Application\\Commands\\UpdatePatientCommand.cs",
+              "ViewState": "AQIAAAIAAACAMjMzMzMrwBsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:57:44.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Api\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Api\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Api\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "PatientManagement.Api\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAAAkAAABoMDMzM7MiwD0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:56:11.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Api\\Program.cs",
+              "RelativeToolTip": "PatientManagement.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:55:30.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetPatientByIdQuery.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Application\\Queries\\GetPatientByIdQuery.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Application\\Queries\\GetPatientByIdQuery.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Application\\Queries\\GetPatientByIdQuery.cs",
+              "RelativeToolTip": "PatientManagement.Application\\Queries\\GetPatientByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:53:51.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreatePatientCommand.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Application\\Commands\\CreatePatientCommand.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Application\\Commands\\CreatePatientCommand.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Application\\Commands\\CreatePatientCommand.cs",
+              "RelativeToolTip": "PatientManagement.Application\\Commands\\CreatePatientCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAABQPQMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:52:42.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientRecordRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Infrastructure\\Repositories\\PatientRecordRepository.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Infrastructure\\Repositories\\PatientRecordRepository.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Infrastructure\\Repositories\\PatientRecordRepository.cs",
+              "RelativeToolTip": "PatientManagement.Infrastructure\\Repositories\\PatientRecordRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAUAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:44:33.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Infrastructure\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Infrastructure\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Infrastructure\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "PatientManagement.Infrastructure\\Repositories\\PatientRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAApwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:38:03.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientContext.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Infrastructure\\DatabaseContext\\PatientContext.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Infrastructure\\DatabaseContext\\PatientContext.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Infrastructure\\DatabaseContext\\PatientContext.cs",
+              "RelativeToolTip": "PatientManagement.Infrastructure\\DatabaseContext\\PatientContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:35:41.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPatientRecordRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Core\\Repositories\\IPatientRecordRepository.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Core\\Repositories\\IPatientRecordRepository.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Core\\Repositories\\IPatientRecordRepository.cs",
+              "RelativeToolTip": "PatientManagement.Core\\Repositories\\IPatientRecordRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:29:23.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Core\\Repositories\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Core\\Repositories\\IPatientRepository.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Core\\Repositories\\IPatientRepository.cs",
+              "RelativeToolTip": "PatientManagement.Core\\Repositories\\IPatientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:28:23.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Core\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Core\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Core\\Entities\\Patient.cs",
+              "RelativeToolTip": "PatientManagement.Core\\Entities\\Patient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:25:32.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientRecord.cs",
+              "DocumentMoniker": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Core\\Entities\\PatientRecord.cs",
+              "RelativeDocumentMoniker": "PatientManagement.Core\\Entities\\PatientRecord.cs",
+              "ToolTip": "C:\\Projects\\PatientManagementAPI\\PatientManagement.Api\\PatientManagement.Core\\Entities\\PatientRecord.cs",
+              "RelativeToolTip": "PatientManagement.Core\\Entities\\PatientRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:24:19.757Z",
+              "EditorCaption": ""
             }
           ]
         }
