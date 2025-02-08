@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PatientManagement.Application/1.0.0": {
+        "dependencies": {
+          "PatientManagement.Core": "1.0.0",
+          "PatientManagement.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "PatientManagement.Application.dll": {}
+        }
+      },
+      "PatientManagement.Core/1.0.0": {
+        "runtime": {
+          "PatientManagement.Core.dll": {}
+        }
+      },
+      "PatientManagement.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PatientManagement.Core": "1.0.0"
+        },
+        "runtime": {
+          "PatientManagement.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PatientManagement.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PatientManagement.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PatientManagement.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

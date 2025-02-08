@@ -1,0 +1,16 @@
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\bin\Debug\net8.0\PatientManagement.Infrastructure.deps.json
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\bin\Debug\net8.0\PatientManagement.Infrastructure.dll
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\bin\Debug\net8.0\PatientManagement.Infrastructure.pdb
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\bin\Debug\net8.0\PatientManagement.Core.dll
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\bin\Debug\net8.0\PatientManagement.Core.pdb
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\obj\Debug\net8.0\PatientManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\obj\Debug\net8.0\PatientManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\obj\Debug\net8.0\PatientManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\obj\Debug\net8.0\PatientManagement.Infrastructure.AssemblyInfo.cs
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\obj\Debug\net8.0\PatientManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\obj\Debug\net8.0\PatientManagement.Infrastructure.sourcelink.json
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\obj\Debug\net8.0\PatientM.F5BBBADA.Up2Date
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\obj\Debug\net8.0\PatientManagement.Infrastructure.dll
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\obj\Debug\net8.0\refint\PatientManagement.Infrastructure.dll
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\obj\Debug\net8.0\PatientManagement.Infrastructure.pdb
+C:\Projects\PatientManagementAPI\PatientManagement.Api\PatientManagement.Infrastructure\obj\Debug\net8.0\ref\PatientManagement.Infrastructure.dll
