@@ -155,7 +155,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/PatientManagementAPI.git
+git clone https://github.com/Stanley-Ugo/PatientManagementAPI.git
 cd PatientManagementAPI
 Restore dependencies:
 
